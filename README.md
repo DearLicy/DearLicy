@@ -1,3 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DearLicy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DearLicy&layout=compact&theme=radical)
-
+<p align="center">
+  <a href="https://profile.akucb.com/?username=DearLicy">
+    <img width="100%" src="https://profile.akucb.com/api?username=DearLicy" alt="DearLicy — dynamic GitHub profile">
+  </a>
+</p>
